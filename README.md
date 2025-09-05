@@ -21,5 +21,5 @@ informações exibidas. Por fim, instancie um objeto de cada
 classe e utilize os métodos definidos para mostrar os dados dos
 funcionários.
 
-<img align="center" width="250px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/ExercicioApostilaPython1/blob/main/Imagem/Imagem1.jpg?raw=true.png">
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/ExercicioApostilaPython1/blob/main/Imagem/Imagem1.jpg?raw=true.png">
 
